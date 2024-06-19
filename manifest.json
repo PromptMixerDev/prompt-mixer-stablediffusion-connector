@@ -1,0 +1,11 @@
+{
+	"id": "prompt-mixer-stablediffusion-connector",
+	"name": "StabilityDiffusionAI Connector",
+	"version": "1.0.1",
+	"minAppVersion": "0.1.0",
+	"description": "Stability Diffusion AI connector enables generating images through Stability AI's image APIs. It provides an easy way to leverage models like Stable Diffusion from within your application.",
+	"author": "Prompt Mixer",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": true
+}
